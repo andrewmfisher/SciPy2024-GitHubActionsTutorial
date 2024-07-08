@@ -2,8 +2,7 @@ name: Conda Environment
 
 on:
   # To run manually
-  #workflow_dispatch
-  push
+  workflow_dispatch
 
 jobs:
   setup:
